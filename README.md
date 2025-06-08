@@ -11,7 +11,7 @@
 - 🗄️ Базы данных: `PostgreSQL`, `SQLite`, `Redis`
 - 🐳 Инфраструктура: `Docker`, `Git`, `Nginx`, `Gunicorn`, `GitHub Actions`
 - 🧪 Тесты: `Pytest`, `UnitTest`
-- 🐧 Прочее: `Linux`, `HTML`, `CSS`
+- 🐧 Другое: `Linux`, `HTML`, `CSS`
 
 ## 🚀 Проекты
 
