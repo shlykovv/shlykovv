@@ -6,12 +6,12 @@
 
 ## 🛠️ Стек технологий
 
-- 💻 Языки: `Python`, `C++`, `HTML`, `CSS`
-- ⚙️ Фреймворки: `Django`, `Django REST Framework`, `FastAPI`, `Aiogram`
+- 💻 Языки: `Python`, `C++`
+- ⚙️ Фреймворки: `Django`, `Django REST Framework`, `Aiogram`
 - 🗄️ Базы данных: `PostgreSQL`, `SQLite`, `Redis`
 - 🐳 Инфраструктура: `Docker`, `Git`, `Nginx`, `Gunicorn`, `GitHub Actions`
 - 🧪 Тесты: `Pytest`, `UnitTest`
-- 🐧 ОС: `Linux`
+- 🐧 Прочее: `Linux`, `HTML`, `CSS`
 
 ## 🚀 Проекты
 
@@ -25,7 +25,7 @@
 
 ## 📫 Контакты
 
-- Email: `email@example.com`
+- Email: `shlikov.vadim@gmail.com`
 - Telegram: [https://t.me/Gadjet1233](https://t.me/Gadjet1233)
 - GitHub: [github.com/shlykovv](https://github.com/shlykovv)
 
