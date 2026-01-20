@@ -6,7 +6,7 @@
 
 ## 🛠️ Стек технологий
 
-- 💻 Языки: `Python`, `C++`
+- 💻 Языки: `Python`, `C/C++`
 - ⚙️ Фреймворки: `Django`, `Django REST Framework`, `Aiogram`
 - 🗄️ Базы данных: `PostgreSQL`, `SQLite`, `Redis`
 - 🐳 Инфраструктура: `Docker`, `Git`, `Nginx`, `Gunicorn`, `GitHub Actions`
